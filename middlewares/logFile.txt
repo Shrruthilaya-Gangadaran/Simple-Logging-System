@@ -1,0 +1,8 @@
+New user Authenticated!
+Username: ShrruthilayaGangadaran
+Password: shru
+URL: /api/checkLoggerData/ShrruthilayaGangadaran/shru
+Date: 13/7/2024, 12:48:49 pm
+Method Type: POST
+Status: Authentication Successful 
+
